@@ -1,2 +1,2 @@
-# Industrial-Robotics-2
+# Industrial-Robotics
 Code for Udemy course "Industrial Robotics"
